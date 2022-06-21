@@ -3,7 +3,7 @@
 
 <br></br>
 
-- 🌱 I’m currently learning: **PySide, C++, Houdini and Racket**
+- 🌱 I’m currently learning: **PySide, C++ and Racket**
 
 - ♟️ All of my projects are available at: [https://www.artstation.com/catharinabarbachan](https://www.artstation.com/catharinabarbachan)
 
