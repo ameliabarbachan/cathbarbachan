@@ -1,9 +1,6 @@
-<h1 align="center">Hi! I'm Catharina Barbachan</h1>
 <h3 align="center">Technical Artist 🌿</h3>
 
 <br></br>
-
-- 🌱 I’m currently learning: **PySide, C++ and Racket**
 
 - ♟️ All of my projects are available at: [https://www.artstation.com/catharinabarbachan](https://www.artstation.com/catharinabarbachan)
 
