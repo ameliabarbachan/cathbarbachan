@@ -1,8 +1,9 @@
 <h1 align="center">Technical Artist 🔮</h1>
 <br></br>
-- ♟️ All of my projects are available at: [artstation.com/catharinabarbachan](https://www.artstation.com/catharinabarbachan)
 
-- ✨ How to reach me: **catharinabarbachan@gmail.com**
+♟️ All of my projects are available at: [artstation.com/catharinabarbachan](https://www.artstation.com/catharinabarbachan)
+
+✨ How to reach me: **catharinabarbachan@gmail.com**
 
 ---
 
